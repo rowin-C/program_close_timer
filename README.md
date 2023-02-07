@@ -8,7 +8,7 @@ python program to close a program when timer ends in windows
 
 
 #It will work even if you dont have python installed
-download everything and run closer.exe 
+Download everything and run closer.exe 
 enter programe name e.g- "brave.exe"
 set time and submit
 
